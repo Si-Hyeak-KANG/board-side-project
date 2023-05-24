@@ -28,6 +28,5 @@ public class ArticleService {
     }
 
     public void saveArticle(ArticleDto dto) {
-
     }
 }
